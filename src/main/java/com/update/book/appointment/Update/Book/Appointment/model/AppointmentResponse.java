@@ -1,6 +1,4 @@
-package com.book.appointment.bookappointment.model;
-
-import org.springframework.format.annotation.DateTimeFormat;
+package com.update.book.appointment.Update.Book.Appointment.model;
 
 import java.math.BigInteger;
 import java.sql.Time;

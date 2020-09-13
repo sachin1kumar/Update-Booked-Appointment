@@ -1,9 +1,9 @@
-package com.book.appointment.bookappointment.model;
+package com.update.book.appointment.Update.Book.Appointment.model;
 
-import com.book.appointment.bookappointment.controller.SqlTimeDeserializer;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.update.book.appointment.Update.Book.Appointment.controller.SqlTimeDeserializer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
